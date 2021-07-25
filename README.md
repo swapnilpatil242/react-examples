@@ -74,4 +74,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ```
   $ npx create-react-app react-examples --use-npm
+  
+  $ npm install --save react-router-dom
 ```
